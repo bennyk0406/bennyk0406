@@ -6,7 +6,7 @@
 
 
 ## 📫 Skills 
-- <img src="https://namu.wiki/jump/QLDS%2Bd0aHYYhrhsMorp%2Fzmt%2FmBygx5%2Fd8MMjHYfUmu%2BvKF4FBLlP5hBAt%2Fa3MUi%2F" alt="js" width="40" height="40"/>  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="40" height="40"/>  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 
 ## 🏆 Cards
