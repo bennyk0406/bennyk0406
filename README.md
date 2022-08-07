@@ -2,7 +2,7 @@
 
 # <h1 align=center>👋 Hi, there! 👋</h1>    
 
-- Discord Bot with TS Learner
+- Amateur Web Developer
 
 
 ## 📫 Skills 
@@ -16,5 +16,5 @@
   ![Wakatime Card](https://github-readme-stats.vercel.app/api/wakatime?username=Jari&v=2&layout=default&theme=buefy)
   
  ## ☑️ TODO
-- 자리봇 기능 완성
+- 자리닷컴 새 기능 완성
 
