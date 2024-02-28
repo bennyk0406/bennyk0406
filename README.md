@@ -16,5 +16,5 @@
   ![Wakatime Card](https://github-readme-stats.vercel.app/api/wakatime?username=Jari&v=2&layout=default&theme=buefy)
   
  ## ☑️ TODO
-- 자리닷컴 새 기능 완성
+- Complete MATHLETE
 
